@@ -10,7 +10,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "ytadl=ytdl.command:main",
+            "ytadl=ytadl.command:main",
         ],
     },
 )
